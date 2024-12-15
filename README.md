@@ -57,17 +57,11 @@
 
 > **Note:** Replace the placeholder images with actual screenshots of your app.
 
-![Home Screen](assets/home_screen.png)
+![Home Screen](assets/home_screen.PNG)
 *Home Screen displaying video playback and analysis summary.*
 
-![Transcription View](assets/transcription_view.png)
+![Transcription View](assets/transcription_view.PNG)
 *Scrollable transcription with highlighted offensive words.*
-
-![Flagged Issues](assets/flagged_issues.png)
-*List of flagged issues with types, descriptions, and timestamps.*
-
-![Sentiment Analysis](assets/sentiment_analysis.png)
-*Sentiment analysis section displaying overall sentiment with emojis.*
 
 ---
 

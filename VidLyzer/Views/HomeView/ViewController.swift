@@ -59,6 +59,11 @@ class ViewController: UIViewController {
     
     func navigateToVideoAnalysisScreen(with videoURL: URL) {
         // Instantiate VideoAnalysisViewController
+        guard !Constants.openAIAPIKey.isEmpty else {
+            showAlert(title: "API Key Not Found", message: "Please provide OpenAI API Key in Constants.swift before Analysing Video content")
+            return
+        }
+        
         let storyboard = UIStoryboard(name: "Main", bundle: nil)
         guard let analysisVC = storyboard.instantiateViewController(withIdentifier: "VideoAnalysisViewController") as? VideoAnalysisViewController else {
             showAlert(title: "Error", message: "Could not navigate to the analysis screen.")

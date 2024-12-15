@@ -14,7 +14,8 @@ enum OpenAIUrlType: String {
 }
 
 struct Constants {
-    static let openAIAPIKey = "ENTER_YOUR_OPENAI_API_KEY "
+    // MARK: ENTER_YOUR_OPENAI_API_KEY here
+    static let openAIAPIKey = ""
     
     struct ServerUrl {
         static func openAIUrl(type: OpenAIUrlType) -> String {

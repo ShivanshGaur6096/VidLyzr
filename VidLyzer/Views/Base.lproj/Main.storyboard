@@ -137,7 +137,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Duration" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="W9p-rh-yqk">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Duration" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="W9p-rh-yqk">
                                 <rect key="frame" x="291" y="323.66666666666669" width="52" height="15.666666666666686"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleFootnote"/>
                                 <nil key="textColor"/>
@@ -216,6 +216,7 @@
                             <constraint firstItem="wB0-Zt-1p6" firstAttribute="leading" secondItem="l1L-DN-wow" secondAttribute="leading" constant="20" id="kd8-qo-wpH"/>
                             <constraint firstItem="kgJ-Db-Fds" firstAttribute="top" secondItem="Ki6-h1-f3F" secondAttribute="bottom" constant="10" id="oDj-xh-iif"/>
                             <constraint firstItem="HWq-wZ-etd" firstAttribute="leading" secondItem="kgJ-Db-Fds" secondAttribute="leading" id="qsL-GY-4dm"/>
+                            <constraint firstItem="W9p-rh-yqk" firstAttribute="trailing" secondItem="OKI-UE-kaq" secondAttribute="trailing" id="x1B-I9-J2U"/>
                         </constraints>
                     </view>
                     <connections>

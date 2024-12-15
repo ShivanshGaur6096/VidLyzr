@@ -1,8 +1,15 @@
 # Vidlyzer
-
-![Vidlyzer Logo](assets/logo.png)
+<img src="assets/logo.png" alt="VidLyzer Logo" width="200">
+<!-- ![Vidlyzer Logo](assets/logo.png) -->
 
 **Vidlyzer** is a cutting-edge iOS application designed to analyze video content comprehensively. Leveraging the power of OpenAI's APIs, Vidlyzer transcribes audio from videos, detects offensive content, assesses sentiment, and provides detailed summaries. Whether you're a content creator, educator, or anyone keen on understanding the nuances of video content, Vidlyzer offers invaluable insights to enhance your media experience.
+
+---
+
+## Demo Video
+
+[![Working Video](assets/home_screen.PNG)](assets/working_video.MP4)
+*Click the thumbnail to view the demo.*
 
 ---
 
@@ -57,11 +64,9 @@
 
 > **Note:** Replace the placeholder images with actual screenshots of your app.
 
-![Home Screen](assets/home_screen.PNG)
 *Home Screen displaying video playback and analysis summary.*
-
-![Transcription View](assets/transcription_view.PNG)
 *Scrollable transcription with highlighted offensive words.*
+<img src="assets/home_screen.PNG" alt="Home Screen" width="300">   <img src="assets/transcription_view.PNG" alt="Home Screen" width="300">
 
 ---
 

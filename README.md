@@ -232,5 +232,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [GitHub Guides](https://guides.github.com/)
 
 ---
-
-> **Note:** This README is a template and should be customized to fit the specific details and assets of your Vidlyzer project. Ensure all links, images, and contact information are accurately updated.

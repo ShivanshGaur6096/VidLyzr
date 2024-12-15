@@ -8,8 +8,7 @@
 
 ## Demo Video
 
-[![Working Video](assets/home_screen.PNG)](assets/working_video.MP4)
-*Click the thumbnail to view the demo.*
+[Working Video](https://github.com/ShivanshGaur6096/VidLyzr/blob/master/assets/working_video.MP4) Check out working video of the app, you might need to download the video to play.
 
 ---
 

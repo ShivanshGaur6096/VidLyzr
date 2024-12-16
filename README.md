@@ -61,8 +61,6 @@
 
 ## 📷 Screenshots
 
-> **Note:** Replace the placeholder images with actual screenshots of your app.
-
 *Home Screen displaying video playback and analysis summary.*
 *Scrollable transcription with highlighted offensive words.*
 <img src="assets/home_screen.PNG" alt="Home Screen" width="300">   <img src="assets/transcription_view.PNG" alt="Home Screen" width="300">
